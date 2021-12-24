@@ -40,8 +40,9 @@
     <a href="https://github.com/Speedyreal">
         <img title="Speedyreal stats" alt="Speedyreal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Speedyreal&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
+  
 </p><br>
-<a href="https://github.com/Speedyreal"><img alt="Speedyreal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Speedyreal&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/speedyreal"><img alt="Speedy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=speedyreal&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
 - accept projects such as Cheating / BOT 🔺
