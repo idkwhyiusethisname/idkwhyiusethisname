@@ -32,11 +32,17 @@
 </p><br>
 <a href="https://github.com/Speedyreal"><img alt="Speedyreal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Speedyreal&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
-<h4 align="center">for Business inquiries</h4>
-<p align="center">Discord: Speedy#8465</p>
-<p align="center">E-Mail: rutkuliofficial@gmail.com</p>
-<h4 align="center">For any requests or other</h4>
-<p align="center">Discord Server: https://discord.gg/kuAxpR84tp</p>
+
+- accept projects such as Cheating / BOT 🔺
+
+- I live in Thailand ⭐
+
+- Contact via Discord : Speedy#8465 📞
+
+- Contact via Email : Tigersmith.40bit@gmail.com 📪
+
+- Access my Discord to get in touch quickly [Click Here](https://discord.gg/kuAxpR84tp) 📁
+
 </pre><br>
 
 
