@@ -1,6 +1,10 @@
+<h2 align="center">
+  
+![68747470733a2f2f692e696d6775722e636f6d2f7a6255547352682e706e67](https://user-images.githubusercontent.com/94861415/147325692-7f671b78-b479-4c5b-8318-273098de8e90.png)
+  
 <p align="center">
-  <a href="https://rutkuli.is-a.dev/">
-    <img src="https://user-images.githubusercontent.com/44347946/125663447-285e0715-057d-42fa-a173-d313aa7f8ab9.png"></a>
+
+
 </p>
 <p align="center">
     <a href="https://discordapp.com/users/749998774566387742">
@@ -9,7 +13,6 @@
    <img alt="Github" src="https://img.shields.io/github/followers/Speedyreal?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
 </p>
 
-<h1 align="center">About me</h1>
 
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
