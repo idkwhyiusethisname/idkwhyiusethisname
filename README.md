@@ -4,12 +4,14 @@
   
 <p align="center">
 
-
+<p align="center">
+    <a href="https://www.unknowncheats.me/forum/members/2973550.html">
+   <img alt="Discord" src="https://img.shields.io/badge/Unknowncheats-UC-critical?style=for-the-badge&logo=logoColor=7289DA&logoWidth=10&labelColor=000"></a>
   
 
 </p>
 <p align="center">
-    <a href="https://discordapp.com/users/749998774566387742">
+    <a href="https://discord.gg/pTXz9AcWaP">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Speedy%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
   <a href="https://github.com/Speedyreal">
    <img alt="Github" src="https://img.shields.io/github/followers/Speedyreal?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
