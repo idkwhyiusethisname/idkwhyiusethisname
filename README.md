@@ -5,12 +5,18 @@
 <p align="center">
 
 
+  
+
 </p>
 <p align="center">
     <a href="https://discordapp.com/users/749998774566387742">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Speedy%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
   <a href="https://github.com/Speedyreal">
    <img alt="Github" src="https://img.shields.io/github/followers/Speedyreal?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
+  
+</p>
+<p align="center">
+<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
 </p>
 
 
