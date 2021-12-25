@@ -37,6 +37,9 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Speedy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speedyreal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<p align="center">
     <a href="https://github.com/Speedyreal">
         <img title="Speedyreal stats" alt="Speedyreal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Speedyreal&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
@@ -58,6 +61,7 @@
 </pre><br>
 
 
+
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://rutkuli.is-a.dev/">
@@ -67,5 +71,6 @@
 
 <!--
 **Speedy/Speedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
