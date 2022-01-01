@@ -13,8 +13,8 @@
 <p align="center">
     <a href="https://discord.gg/pTXz9AcWaP">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Speedy%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
-  <a href="https://github.com/Speedyreal">
-   <img alt="Github" src="https://img.shields.io/github/followers/Speedyreal?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
+  <a href="https://github.com/SpeedyTheCopyPaster">
+   <img alt="Github" src="https://img.shields.io/github/followers/SpeedyTheCopyPaster?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
   
 </p>
 <p align="center">
@@ -37,15 +37,15 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Speedy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speedyreal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Speedy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedyTheCopyPaster&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p align="center">
-    <a href="https://github.com/Speedyreal">
-        <img title="Speedyreal stats" alt="Speedyreal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Speedyreal&theme=dark&hide_border=true&stroke=f53b3b"/>
+    <a href="https://github.com/SpeedyTheCopyPaster">
+        <img title="SpeedyTheCopyPaster stats" alt="SpeedyTheCopyPaster's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SpeedyTheCopyPaster&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
   
 </p><br>
-<a href="https://github.com/speedyreal"><img alt="Speedy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=speedyreal&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SpeedyTheCopyPaster"><img alt="Speedy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SpeedyTheCopyPaster&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
 - accept projects such as Cheating / BOT 🔺
@@ -65,7 +65,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://rutkuli.is-a.dev/">
-        <img title="Speedy discord" alt="Speedyreal's discord" src="https://discord.c99.nl/widget/theme-2/582142955742298132.png"/>
+        <img title="Speedy discord" alt="SpeedyTheCopyPaster's discord" src="https://discord.c99.nl/widget/theme-2/582142955742298132.png"/>
     </a>
 </p>
 
