@@ -12,9 +12,9 @@
 </p>
 <p align="center">
     <a href="https://discord.gg/pTXz9AcWaP">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Speedy%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
-  <a href="https://github.com/SpeedyTheCopyPaster">
-   <img alt="Github" src="https://img.shields.io/github/followers/SpeedyTheCopyPaster?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
+  <a href="https://github.com/SarnaxLii">
+   <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
   
 </p>
 <p align="center">
@@ -37,22 +37,22 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Speedy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpeedyTheCopyPaster&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="SarnaxLii's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarnaxLii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p align="center">
-    <a href="https://github.com/SpeedyTheCopyPaster">
-        <img title="SpeedyTheCopyPaster stats" alt="SpeedyTheCopyPaster's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SpeedyTheCopyPaster&theme=dark&hide_border=true&stroke=f53b3b"/>
+    <a href="https://github.com/SarnaxLii">
+        <img title="SarnaxLii stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
   
 </p><br>
-<a href="https://github.com/SpeedyTheCopyPaster"><img alt="Speedy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SpeedyTheCopyPaster&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
 - accept projects such as Cheating / BOT 🔺
 
 - I live in Thailand ⭐
 
-- Contact via Discord : Speedy#8465 📞
+- Contact via Discord : Sarnax#8465 📞
 
 - Contact via Email : Tigersmith.40bit@gmail.com 📪
 
@@ -65,12 +65,12 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://rutkuli.is-a.dev/">
-        <img title="Speedy discord" alt="SpeedyTheCopyPaster's discord" src="https://discord.c99.nl/widget/theme-2/582142955742298132.png"/>
+        <img title="SarnaxLii discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-2/582142955742298132.png"/>
     </a>
 </p>
 
 <!--
-**Speedy/Speedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SarnaxLii/SarnaxLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
