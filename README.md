@@ -58,6 +58,8 @@
 
 - Access my Discord to get in touch quickly [Click Here](https://discord.gg/bzfWPSsDfR) 📁
 
+- This is my new Github account as the old one was Banned by Github BOT. ❌
+
 </pre><br>
 
 
