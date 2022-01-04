@@ -48,7 +48,7 @@
 <a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
-- accept projects such as Cheating / BOT 🔺
+- I do a private Cheating service for playing that is not banned. 💀
 
 - I live in Thailand ⭐
 
