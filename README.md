@@ -56,7 +56,7 @@
 
 - Contact via Email : Tigersmith.40bit@gmail.com 📪
 
-- Access my Discord to get in touch quickly [Click Here](https://discord.gg/kuAxpR84tp) 📁
+- Access my Discord to get in touch quickly [Click Here](https://discord.gg/bzfWPSsDfR) 📁
 
 </pre><br>
 
