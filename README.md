@@ -16,6 +16,12 @@
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
   
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
+
+  
 </p>
 <p align="center">
 <img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
