@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://www.unknowncheats.me/forum/members/2994604.html">
-   <img alt="Discord" src="https://img.shields.io/badge/Unknowncheats-UC-critical?style=for-the-badge&logo=logoColor=7289DA&logoWidth=10&labelColor=000"></a>
+   <img alt="Discord" src="https://img.shields.io/badge/Realitycheats-RC-blueviolet?style=for-the-badge&logo=logoColor=7289DA&logoWidth=10&labelColor=000"></a>
   
 
 </p>
@@ -55,7 +55,7 @@
 <a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
-- I do a private Cheating service for playing that is not banned. 💀
+- I Sell Project Cheating Private & Spoofer Private 💥
 
 - I live in Thailand ⭐
 
