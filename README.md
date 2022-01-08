@@ -1,6 +1,7 @@
 <h2 align="center">
   
-![68747470733a2f2f692e696d6775722e636f6d2f7a6255547352682e706e67](https://user-images.githubusercontent.com/94861415/147325692-7f671b78-b479-4c5b-8318-273098de8e90.png)
+![rc_chris](https://user-images.githubusercontent.com/94861415/148633221-06c73e31-1a1f-4a99-a9de-7f3e3291bebb.png)
+
   
 <p align="center">
 
