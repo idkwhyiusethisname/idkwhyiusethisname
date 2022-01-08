@@ -13,12 +13,12 @@
 </p>
 <p align="center">
     <a href="https://discord.gg/pTXz9AcWaP">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
-   <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
+   <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
