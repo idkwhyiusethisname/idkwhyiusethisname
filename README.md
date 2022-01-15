@@ -61,7 +61,7 @@
 
 - Contact via Discord : Sarnax#8465 📞
 
-- Contact via Email : Tigersmith.40bit@gmail.com 📪
+- Contact via Email : lavabit39@gmail.com 📪
 
 - Access my Discord to get in touch quickly [Click Here](https://discord.gg/bzfWPSsDfR) 📁
 
