@@ -1,6 +1,8 @@
 <h2 align="center">
   
-![rc_chris](https://user-images.githubusercontent.com/94861415/148633221-06c73e31-1a1f-4a99-a9de-7f3e3291bebb.png)
+
+
+![Untitled-1_page-0001](https://user-images.githubusercontent.com/94861415/149670604-b7907ed9-a057-40e0-ad29-ad1bed8d0bf4.jpg)
 
   
 <p align="center">
