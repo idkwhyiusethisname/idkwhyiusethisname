@@ -15,7 +15,7 @@
 </p>
 <p align="center">
     <a href="https://discord.gg/3yXwTzghHR">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%238465-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%239999-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
