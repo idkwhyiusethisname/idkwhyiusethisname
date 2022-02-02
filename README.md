@@ -14,7 +14,7 @@
 
 </p>
 <p align="center">
-    <a href="https://discord.gg/3yXwTzghHR">
+    <a href="https://discord.gg/FeeWGNmhHx">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Achtzehn%239999-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/Achtzehn18">
    <img alt="Github" src="https://img.shields.io/github/followers/Achtzehn18?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
@@ -65,7 +65,7 @@
 
 - Contact via Email : lavabit39@gmail.com 📪
 
-- Access my Discord to get in touch quickly [Click Here](https://discord.gg/3yXwTzghHR) 📁
+- Access my Discord to get in touch quickly [Click Here](https://discord.gg/FeeWGNmhHx) 📁
 
 - This is my new Github account as the old one was Banned by Github BOT. ❌
 
