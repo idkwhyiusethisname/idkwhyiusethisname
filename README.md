@@ -53,19 +53,14 @@
 <a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
-- I Sell Project Cheating Private & Spoofer Private 💥
-
-- I live in Thailand ⭐
-
-- Contact via Discord : Sarnax#9999 📞
-
-- Contact via Email : lavabit39@gmail.com 📪
-
-- Access my Discord to get in touch quickly [Click Here](https://discord.gg/FeeWGNmhHx) 📁
-
-- This is my new Github account as the old one was Banned by Github BOT. ❌
-
+<h2 align="center">Contact me</h2>
+<h4 align="center">Seller Source code & Cheating Private</h4>
+<p align="center">Discord: Sarnax#9999</p>
+<p align="center">E-Mail: SarnaxLii@gmail.com</p>
+<h4 align="center">For any requests or other</h4>
+<p align="center">Discord Server: https://discord.gg/Nwuwbh9a2g
 </pre><br>
+
 
 
 
