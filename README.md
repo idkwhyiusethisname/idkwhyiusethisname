@@ -15,9 +15,9 @@
 </p>
 <p align="center">
     <a href="https://discord.gg/FeeWGNmhHx">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Achtzehn%239999-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Achtzehn18">
-   <img alt="Github" src="https://img.shields.io/github/followers/Achtzehn18?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%239999-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/SarnaxLii">
+   <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
@@ -46,24 +46,24 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Achtzehn18's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Achtzehn18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="SarnaxLii's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+SarnaxLii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p align="center">
     <a href="https://github.com/Achtzehn18">
-        <img title="Achtzehn18 stats" alt="Achtzehn18's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=
-Achtzehn18&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="SarnaxLii stats" alt="Achtzehn18's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=
+SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
   
 </p><br>
-<a href="https://github.com/Achtzehn18"><img alt="Achtzehn18's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Achtzehn18&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Achtzehn18"><img alt="Achtzehn18's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
 - I Sell Project Cheating Private & Spoofer Private 💥
 
 - I live in Thailand ⭐
 
-- Contact via Discord : Achtzehn#9999 📞
+- Contact via Discord : Sarnax#9999 📞
 
 - Contact via Email : lavabit39@gmail.com 📪
 
@@ -78,7 +78,7 @@ Achtzehn18&theme=dark&hide_border=true&stroke=f53b3b"/>
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/bzfWPSsDfR">
-        <img title="Achtzehn18 discord" alt="Achtzehn18's discord" src="https://discord.c99.nl/widget/theme-4/582142955742298132.png"/>
+        <img title="Sarnax discord" alt="Achtzehn18's discord" src="https://discord.c99.nl/widget/theme-4/582142955742298132.png"/>
     </a>
 </p>
 
