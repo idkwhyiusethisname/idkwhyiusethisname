@@ -50,13 +50,13 @@
 SarnaxLii&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <p align="center">
-    <a href="https://github.com/Achtzehn18">
-        <img title="SarnaxLii stats" alt="Achtzehn18's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=
+    <a href="https://github.com/SarnaxLii">
+        <img title="SarnaxLii stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=
 SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
   
 </p><br>
-<a href="https://github.com/Achtzehn18"><img alt="Achtzehn18's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SarnaxLii"><img alt="Achtzehn18's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 <h2 align="center">Contact me</h2>
 
 - I Sell Project Cheating Private & Spoofer Private 💥
@@ -78,7 +78,7 @@ SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/bzfWPSsDfR">
-        <img title="Sarnax discord" alt="Achtzehn18's discord" src="https://discord.c99.nl/widget/theme-4/582142955742298132.png"/>
+        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-4/582142955742298132.png"/>
     </a>
 </p>
 
