@@ -62,7 +62,7 @@
 <p align="center">Discord: Sarnax#9999</p>
 <p align="center">E-Mail: SarnaxLii@gmail.com</p>
 <h4 align="center">For any requests or other</h4>
-<p align="center">Discord Server: https://discord.com/invite/ADS8VHJndK
+<p align="center">Discord Server: https://discord.gg/JUyNjXCG5d
 </pre><br>
 
 
