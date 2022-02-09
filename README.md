@@ -8,7 +8,7 @@
 <p align="center">
 
 <p align="center">
-    <a href="https://realitycheats.com/members/rooster.9971/">
+    <a href="https://steamcommunity.com/profiles/76561199040812756/">
    <img alt="Discord" src="https://img.shields.io/badge/Realitycheats-RC-blueviolet?style=for-the-badge&logo=logoColor=7289DA&logoWidth=10&labelColor=000"></a>
   
 
