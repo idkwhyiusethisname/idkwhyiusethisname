@@ -8,8 +8,8 @@
 <p align="center">
 
 <p align="center">
-    <a href="https://steamcommunity.com/profiles/76561199040812756/">
-   <img alt="Discord" src="https://img.shields.io/badge/Realitycheats-RC-blueviolet?style=for-the-badge&logo=logoColor=7289DA&logoWidth=10&labelColor=000"></a>
+  <a href="https://sarnax.is-a.dev/">
+   <img alt="Github" src="https://img.shields.io/badge/SARNAX.IS--A.DEV-WEB-brightgreen"></a> 
   
 
  
