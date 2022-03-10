@@ -8,7 +8,7 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://sarnax.is-a.dev/">
+  <a href="https://sarnax.com/">
    <img alt="Github" src="https://img.shields.io/badge/SARNAX.IS--A.DEV-WEB-brightgreen"></a> 
   
 
