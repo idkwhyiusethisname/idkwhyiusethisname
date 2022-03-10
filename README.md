@@ -1,6 +1,7 @@
 <h2 align="center">
   
-![bannercc](https://user-images.githubusercontent.com/94861415/154160428-72ab7172-9b64-40b5-b9f7-24b6a7379f66.jpg)
+![0qwcqwcq](https://user-images.githubusercontent.com/94861415/157602018-88bb96a7-5026-4e29-b506-709df4923dad.jpg)
+
 
 
 
