@@ -18,7 +18,7 @@
   
 </p>
 <p align="center">
-    <a href="https://discord.com/invite/sarnax">
+    <a href="https://discord.gg/7Z6BDGmFRc">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
@@ -62,7 +62,7 @@
 <p align="center">Discord: Sarnax#9999</p>
 <p align="center">E-Mail: SarnaxOfficial@protonmail.com</p>
 <h4 align="center">For any requests or other</h4>
-<p align="center">Discord Server: https://discord.gg/sarnax
+<p align="center">Discord Server: https://discord.gg/7Z6BDGmFRc
 </pre><br>
 
 
