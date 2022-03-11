@@ -1,4 +1,4 @@
-<h2 align="center">
+https://discord.gg/sFUeS3E6Sz<h2 align="center">
   
 ![0qwcqwcq](https://user-images.githubusercontent.com/94861415/157602018-88bb96a7-5026-4e29-b506-709df4923dad.jpg)
 
@@ -61,7 +61,7 @@
 <p align="center">Discord: Sarnax#7522</p>
 <p align="center">E-Mail: SarnaxOfficial@protonmail.com</p>
 <h4 align="center">For any requests or other</h4>
-<p align="center">Discord Server: https://discord.com/users/943374631644045363
+<p align="center">Discord Server: https://discord.gg/sFUeS3E6Sz
 </pre><br>
 
 
@@ -69,7 +69,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.gg/sFUeS3E6Sz">
         <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
     </a>
 </p>
