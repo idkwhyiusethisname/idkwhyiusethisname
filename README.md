@@ -1,4 +1,4 @@
-https://discord.gg/sFUeS3E6Sz<h2 align="center">
+<h2 align="center">
   
 ![0qwcqwcq](https://user-images.githubusercontent.com/94861415/157602018-88bb96a7-5026-4e29-b506-709df4923dad.jpg)
 
