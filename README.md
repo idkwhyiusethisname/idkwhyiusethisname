@@ -57,7 +57,7 @@
   
 
 <h2 align="center">Contact me</h2>
-<h4 align="center">Seller Source code & Cheating Private</h4>
+<h4 align="center">Cheating Private & Source code & Spoofer</h4>
 <p align="center">Discord: Sarnax#7522</p>
 <p align="center">E-Mail: SarnaxOfficial@protonmail.com</p>
 <h4 align="center">For any requests or other</h4>
