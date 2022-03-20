@@ -1,7 +1,6 @@
 <h2 align="center">
   
-![SarnaxOfficial](https://user-images.githubusercontent.com/94861415/159141713-fc328376-6668-49a3-87cd-1c0306b0ab0b.jpg)
-
+![00501_hex_179](https://user-images.githubusercontent.com/94861415/159150793-87d6fc23-ec44-4b50-95dc-4f0b7c92eaf9.png)
 
 
   
