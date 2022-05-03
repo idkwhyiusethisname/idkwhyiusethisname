@@ -24,7 +24,7 @@
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=8&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
