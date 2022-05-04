@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://sarnaxlii.github.io/sarnax.github.io/">
+  <a href="https://sarnax.xyz/">
    <img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
   
 
