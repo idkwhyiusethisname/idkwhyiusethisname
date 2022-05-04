@@ -63,7 +63,7 @@
 
 📩・Cheating Private - Source code - Spoofer / Dm discord [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
 
-🌐・Website: [Sarnax.com](https://sarnaxlii.github.io/sarnax.github.io/)
+🌐・Website: [Sarnax.xyz](https://sarnaxlii.github.io/sarnax.github.io/)
 
 📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
 
