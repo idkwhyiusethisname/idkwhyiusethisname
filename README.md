@@ -6,10 +6,6 @@
   ![SARNAX_copy](https://user-images.githubusercontent.com/94861415/163727117-25549b74-257d-4203-bac6-6618db83b52f.png)
 
 
-```python
-  CHEATING PRIVATE / SPOOFER / SOURCE CODE 
-```
-
 <p align="center">
   <a href="https://sarnax.xyz/">
    <img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
@@ -73,15 +69,18 @@
 
 </pre><br>
 
+<h2 align="center">Social media</h2>
 
+<h2 align="center"</h2>
+
+[![LinkedIn](https://img.shields.io/badge/Youtube----red)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17776779/sarnax) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sarnax2) 
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/sFUeS3E6Sz">
-        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-1/943374631644045363.png"/>
     </a>
 </p>
-
-<!--
-**SarnaxLii/SarnaxLii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hellodasd
