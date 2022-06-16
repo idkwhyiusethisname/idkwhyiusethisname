@@ -15,7 +15,7 @@
   
 </p>
 <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.gg/JsxqNHgR4m">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
@@ -55,7 +55,11 @@
 <a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
+
+
 <h2 align="center">Contact me</h2>
+
+💢・Discord : [HEX SERVER](https://discord.gg/JsxqNHgR4m)
 
 ✔️・Full Stack Developer
 
