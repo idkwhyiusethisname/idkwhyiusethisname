@@ -59,7 +59,7 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・Discord : [HEX SERVER](https://discord.gg/JsxqNHgR4m)
+💢・Discord : [HEX SERVER](https://discord.gg/7vVb9g7FGT)
 
 ✔️・Full Stack Developer
 
