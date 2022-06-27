@@ -88,4 +88,4 @@
     </a>
 </p>
 
-COPYRIGHT @ 2022
+Copyright © 2021 - 2022
