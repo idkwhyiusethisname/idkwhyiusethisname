@@ -60,17 +60,17 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・Discord : [HEX SERVER](https://discord.gg/7vVb9g7FGT)
+💢・DISCORD : [HEX SERVER](https://discord.gg/7vVb9g7FGT)
 
-✔️・Full Stack Developer
+✔️・FULL STACK DEVELOPER 
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+📩・CHEATING PRIVATE - SOURCE CODE - SPOOFER / DM DISCORD : [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
 
-🌐・Website: [Sarnax.xyz](https://sarnaxlii.github.io/sarnax.github.io/)
+🌐・WEBSITE : [SARNAX.COM](https://sarnaxlii.github.io/sarnax.github.io/)
 
-📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
+📮・THE LANGUAGE I'AM GOOD AT C++ ┋ C# ┋ LUA ┋ PYTHON ┋ HTML ┋ RUST ┋ JAVA SCRIPTS 
 
-🎮・Add friend in steam : [Sarnax](https://steamcommunity.com/id/sarnaxOfficial/)
+🎮・STEAM ACCOUNT [SARNAX OFFICIAL](https://steamcommunity.com/id/sarnaxOfficial/) ┋ [TELEGRAM](https://t.me/Sarnaxdm)
 
 </pre><br>
 
