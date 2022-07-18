@@ -14,7 +14,7 @@
 
 
   
-</p>
+
 <p align="center">
     <a href="https://discord.gg/JsxqNHgR4m">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
@@ -23,11 +23,10 @@
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
-<hr>
 
- 
-  
-</p>
+  ---
+
+
 <p align="center">
 <img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
 </p>
