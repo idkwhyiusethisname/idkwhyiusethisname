@@ -78,9 +78,11 @@
 
 <h2 align="center"</h2>
 
-[![LinkedIn](https://img.shields.io/badge/Youtube----red)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17776779/sarnax) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sarnax2) 
+[![Telegram](https://img.shields.io/badge/-Telegram-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Sarnaxdm)
+<a target="_blank" href="https://discord.gg/7vVb9g7FGT"><img alt="Discord" src="https://img.shields.io/badge/HEX COMMUNITY%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
+<a target="_blank" href="https://twitter.com/Sarnax2"><img alt="Twitter" src="https://img.shields.io/badge/@Sarnax-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
