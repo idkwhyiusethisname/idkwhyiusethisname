@@ -59,17 +59,18 @@
 
 <h2 align="center">Contact me</h2>
 
-💢・DISCORD : [HEX SERVER](https://discord.gg/7vVb9g7FGT)
 
-✔️・FULL STACK DEVELOPER 
+- 📌 Information about all Products [Announcement](https://github.com/SarnaxLii/Announcement)
 
-📩・CHEATING PRIVATE - SOURCE CODE - SPOOFER / DM DISCORD : [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+- 👋 Hello I'am Sarnax Full Stack Developer
 
-🌐・WEBSITE : [SARNAX.COM](https://sarnaxlii.github.io/sarnax.github.io/)
+- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
-📮・THE LANGUAGE I'AM GOOD AT C++ ┋ C# ┋ LUA ┋ PYTHON ┋ HTML ┋ RUST ┋ JAVA SCRIPTS 
+- 🛒 Product `   CHEATING PRIVATE | SPOOFER | SOURCE CODE | DRIVER `
 
-🎮・STEAM ACCOUNT [SARNAX OFFICIAL](https://steamcommunity.com/id/sarnaxOfficial/) ┋ [TELEGRAM](https://t.me/Sarnaxdm)
+- ⚡ Website [Sarnax.com](https://sarnaxlii.github.io/sarnax.github.io/) | It's Just an Introduction and **Work History.**
+
+- 💬 Discord [Sarnax#7522](https://discord.com/users/943374631644045363) | [HEX PROJECT](https://discord.gg/7vVb9g7FGT)
 
 </pre><br>
 
