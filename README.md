@@ -92,4 +92,4 @@
 
 </p>
 
-<h2 align="center"> Copyright © 2021 - 2022
+<h2 align="center"> Copyright © 2022
