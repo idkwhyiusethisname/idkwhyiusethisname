@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <a href="https://sarnax.xyz/">
-   <img alt="Github" src="https://img.shields.io/badge/SARNAX.COM-WEBSITE-red"></a> 
+
+[![](https://img.shields.io/badge/SARNAX-.com-Blue?style=for-the-badge&logo=HTML)](https://sarnax.xyz/)
   
 
 
