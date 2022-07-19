@@ -16,7 +16,7 @@
   
 
 <p align="center">
-    <a href="https://discord.gg/JsxqNHgR4m">
+    <a href="https://discord.gg/MBTkVcJefp">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Sarnax%237522-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/SarnaxLii">
    <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
@@ -69,7 +69,7 @@
 
 - ⚡ Website [Sarnax.com](https://sarnaxlii.github.io/sarnax.github.io/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [Sarnax#7522](https://discord.com/users/943374631644045363) | [HEX PROJECT](https://discord.gg/7vVb9g7FGT)
+- 💬 Discord [Sarnax#7522](https://discord.com/users/943374631644045363) | [HEX PROJECT](https://discord.gg/MBTkVcJefp)
 
 </pre><br>
 
