@@ -3,7 +3,7 @@
   
 <p align="center">
   
-![BANNER_SARNAX_GITHUB](https://user-images.githubusercontent.com/94861415/177609760-48d50d71-47c7-419f-88ef-dad79d574e6b.png)
+![BANNER_SARNAX_GITHUB](https://user-images.githubusercontent.com/94861415/179736220-e757c236-3de4-4db0-a371-bb5bed2fc497.png)
 
 
 
