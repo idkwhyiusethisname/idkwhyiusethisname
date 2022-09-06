@@ -21,8 +21,8 @@
 <p align="center">
     <a href="https://discord.gg/MBTkVcJefp">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/SarnaxLii">
-   <img alt="Github" src="https://img.shields.io/github/followers/SarnaxLii?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+  <a href="https://github.com/Fnoberz">
+   <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
