@@ -72,7 +72,7 @@
 
 - ⚡ Website [Fnoberz.com](https://sarnaxlii.github.io/sarnax.github.io/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [HEX PROJECT](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Cloud | Project](https://discord.gg/MBTkVcJefp)
 
 </pre><br>
 
