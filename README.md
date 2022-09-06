@@ -50,11 +50,11 @@
 <h2 align="center">My github profile stastictics.</h2>
 
 <p align="center">
-    <a href="https://github.com/SarnaxLii">
-        <img title="SarnaxLii stats" alt="SarnaxLii's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SarnaxLii&theme=dark&hide_border=true&stroke=f53b3b"/>
+    <a href="https://github.com/Fnoberz">
+        <img title="SarnaxLii stats" alt="Fnoberz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Fnoberz"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
   
 
 
@@ -89,7 +89,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="Sarnax server discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
 
