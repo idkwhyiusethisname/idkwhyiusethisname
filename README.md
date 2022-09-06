@@ -4,8 +4,7 @@
 <p align="center">
 
 
-![banners](https://user-images.githubusercontent.com/94861415/188625632-9f973a12-59d0-4dfa-bb88-39da4dacaf7f.png)
-
+![banners](https://user-images.githubusercontent.com/94861415/188713671-8e253342-f982-4fb6-beab-5c3858bb1a93.png)
 
 
 
