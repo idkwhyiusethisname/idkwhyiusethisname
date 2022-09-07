@@ -11,7 +11,7 @@
 
 <p align="center">
 
-[![](https://img.shields.io/badge/Fnoberz-.com-Blue?style=for-the-badge&logo=HTML)](https://sarnax.xyz/)
+[![](https://img.shields.io/badge/Fnoberz-.com-Blue?style=for-the-badge&logo=HTML)](http://fnoberz.com/)
   
 
 
