@@ -51,7 +51,7 @@
 
 <p align="center">
     <a href="https://github.com/Fnoberz">
-        <img title="SarnaxLii stats" alt="Fnoberz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img title="Fnoberz stats" alt="Fnoberz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
 <a href="https://github.com/Fnoberz"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
