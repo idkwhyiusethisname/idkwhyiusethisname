@@ -50,9 +50,11 @@
 
 <h2 align="center">My github profile stastictics.</h2>
 
+
+
 <p align="center">
     <a href="https://github.com/Fnoberz">
-        <img title="Fnoberz stats" alt="Fnoberz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
+        <img src="https://github-streak.herokuapp.com/Fnoberz?theme=dark" alt="" />
     </a>
 </p><br>
 <a href="https://github.com/Fnoberz"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
