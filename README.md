@@ -4,7 +4,8 @@
 <p align="center">
 
 
-![Fnoberz/Official](https://user-images.githubusercontent.com/94861415/193436723-8e3595ec-00bd-4a79-bfd0-d564ea153f64.png)
+![Fnoberz](https://user-images.githubusercontent.com/94861415/193436829-21782182-a13e-4612-9d62-8a454768b9c2.png)
+
 
 
 
