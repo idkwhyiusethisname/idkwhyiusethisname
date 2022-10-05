@@ -3,9 +3,7 @@
   
 <p align="center">
 
-<img width="1920" alt="Black Beige Elegant Business Tips Youtube Banner" src="https://user-images.githubusercontent.com/94861415/193973408-b4d010c6-b91d-4e46-8462-f766211855c5.png">
-
-
+![Fnoberz Official](https://user-images.githubusercontent.com/94861415/193973598-f3da6037-c56b-4088-96a6-80c1ffda3687.png)
 
 
 
