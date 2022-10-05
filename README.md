@@ -3,7 +3,7 @@
   
 <p align="center">
 
-![Fnoberz Official](https://user-images.githubusercontent.com/94861415/193973598-f3da6037-c56b-4088-96a6-80c1ffda3687.png)
+![Official](https://user-images.githubusercontent.com/94861415/194053422-d62c567c-30b9-4cfc-b5b5-d90159befe07.png)
 
 
 
