@@ -4,15 +4,13 @@
 <p align="center">
 
 
-![Banners](https://user-images.githubusercontent.com/94861415/194309104-ada5168c-7e47-4b8a-ab91-65e81eb7b1a4.png)
-
-
+![banner github 3](https://user-images.githubusercontent.com/94861415/194462233-26dadc65-be5d-4ce1-b06a-e03c65187f73.png)
 
 
 
 <p align="center">
 
-[![](https://img.shields.io/badge/Fnoberz-.com-Blue?style=for-the-badge&logo=HTML)](http://fnoberz.com/)
+[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.com-blue?style=for-the-badge)](http://fnoberz.com/)
   
 
 
@@ -101,3 +99,5 @@
 </p>
 
 <h2 align="center"> Copyright © 2020 - 2022  
+
+##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/JUwFCGHbV4)
