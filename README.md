@@ -3,8 +3,7 @@
   
 <p align="center">
 
-
-![Fixed](https://user-images.githubusercontent.com/94861415/194478891-83d08524-3312-4f99-acc2-37a1680ddd76.png)
+![____________](https://user-images.githubusercontent.com/94861415/194702474-5d4f157b-81bc-40ae-9546-95c740190fdd.png)
 
 
 
