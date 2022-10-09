@@ -67,13 +67,13 @@
 
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
-- 🛒 Product `   CHEATING PRIVATE | SPOOFER | SOURCE CODE | DRIVER | ETC. `
+- 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
 - ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
 
 - 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Cloud | Project](https://discord.gg/MBTkVcJefp)
 
-- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) | +1 517 224 1284 (USA)
+- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) | +15172241284
 
 
 </pre><br>
