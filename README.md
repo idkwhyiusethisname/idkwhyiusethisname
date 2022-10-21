@@ -71,7 +71,7 @@
 
 - ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363)
+- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
 
 - 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) 
 
@@ -90,7 +90,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.gg/MBTkVcJefp">
         <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
