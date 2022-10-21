@@ -16,7 +16,7 @@
   
 
 <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
+    <a href="https://discord.com/users/943374631644045363">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/Fnoberz">
    <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
@@ -71,9 +71,9 @@
 
 - ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
 
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Cloud | Project](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363)
 
-- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) | +15172241284
+- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) 
 
 
 </pre><br>
@@ -83,7 +83,7 @@
 <h2 align="center"</h2>
 
 [![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Sarnaxdm)
-<a target="_blank" href="https://discord.gg/MBTkVcJefp"><img alt="Discord" src="https://img.shields.io/badge/Cloud | Project%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Cloud | Project%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
 <a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
@@ -98,5 +98,3 @@
 </p>
 
 <h2 align="center"> Copyright © 2020 - 2022  
-
-##### <p align="center">  FNOBERZ OFFICIAL / JOIN DISCORD [CLOUD PROJECT](https://discord.gg/JUwFCGHbV4)
