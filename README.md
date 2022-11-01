@@ -45,8 +45,7 @@
 
 <h2 align="center">My github profile stastictics.</h2>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fnoberz&show_icons=true&theme=dark&hide_border=true" alt="Fnoberz" width = "49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Fnoberz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Fnoberz" width = "49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Fnoberz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Fnoberz" width = "60%"/>
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Fnoberz&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Fnoberz" height = 150/> -->
 </p>
 
