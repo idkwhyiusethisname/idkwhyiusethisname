@@ -3,7 +3,8 @@
   
 <p align="center">
 
-![Fixed](https://user-images.githubusercontent.com/94861415/199133459-431fc4ac-885b-44e3-9a45-ea0c08a82d62.png)
+![2](https://user-images.githubusercontent.com/94861415/199562231-a95d51d5-a905-4a44-b364-c0903e95f589.png)
+
 
 
 <p align="center">
@@ -12,7 +13,7 @@
   
 
 
-  
+
 
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
