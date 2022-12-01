@@ -3,8 +3,8 @@
   
 <p align="center">
 
+![Fnoberz](https://user-images.githubusercontent.com/94861415/204950923-0b897e3f-158d-400d-a52c-473755f81a4f.png)
 
-<img width="1188" alt="Fnoberz" src="https://user-images.githubusercontent.com/94861415/201513800-154947a1-13a4-4165-9935-99f9f4b74ee5.png">
 
 
 <p align="center">
