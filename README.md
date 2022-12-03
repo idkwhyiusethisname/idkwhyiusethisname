@@ -1,3 +1,19 @@
+<a href="https://dreamys.studio/"><img src="website.gif" alt="Gif loading..."></a>
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dxxxxy&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fnoberz&theme=cool-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+
+
+![Fnoberz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnoberz&show_icons=true&theme=transparent)
+
+
+
+
+
+
+
 <h2 align="center">
 
   
@@ -50,8 +66,10 @@
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Fnoberz&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Fnoberz" height = 150/> -->
 </p>
 
-</p><br>
-<a href="https://github.com/Fnoberz"><img alt="Fnoberz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fnoberz&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
+
+<h2 align="center">
+
+![Fnoberz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnoberz&show_icons=true&theme=transparent)
   
 
 
@@ -77,7 +95,7 @@
 <h2 align="center"</h2>
 
 [![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Fnoberz)
-<a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Cloud | Club%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
 <a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
