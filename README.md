@@ -9,7 +9,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.com-blue?style=for-the-badge)](http://fnoberz.com/)
+[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.net-blue?style=for-the-badge)](https://fnoberz.net/)
   
 
 
@@ -65,8 +65,6 @@
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
-
-- ⚡ Website [Fnoberz.com](http://fnoberz.com/) | It's Just an Introduction and **Work History.**
 
 - 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
 
