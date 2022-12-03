@@ -1,22 +1,6 @@
-<a href="https://dreamys.studio/"><img src="website.gif" alt="Gif loading..."></a>
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=dxxxxy&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-
-
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fnoberz&theme=cool-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-
-
-![Fnoberz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnoberz&show_icons=true&theme=transparent)
-
-
-
-
-
-
-
 <h2 align="center">
 
-  
+
 <p align="center">
 
 ![Fnoberz Official](https://user-images.githubusercontent.com/94861415/205455366-50e6996e-5ab3-4a69-8093-96bde9c803c4.png)
