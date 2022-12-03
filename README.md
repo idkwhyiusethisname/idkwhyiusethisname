@@ -3,7 +3,8 @@
   
 <p align="center">
 
-![Fnoberz](https://user-images.githubusercontent.com/94861415/204950923-0b897e3f-158d-400d-a52c-473755f81a4f.png)
+![Fnoberz Official](https://user-images.githubusercontent.com/94861415/205455366-50e6996e-5ab3-4a69-8093-96bde9c803c4.png)
+
 
 
 
@@ -68,8 +69,6 @@
 
 - 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
 
-- 📧 Contact FnoberzOfficial@pm.me | [Telegram](https://t.me/Fnoberz) 
-
 
 </pre><br>
 
@@ -78,7 +77,7 @@
 <h2 align="center"</h2>
 
 [![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Fnoberz)
-<a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Cloud | Project%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Cloud | Club%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
 <a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
