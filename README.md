@@ -1,3 +1,5 @@
+
+
 <h2 align="center">
 
 
@@ -44,16 +46,13 @@
 </p>
 
 
-<h2 align="center">My github profile stastictics.</h2>
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Fnoberz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Fnoberz" width = "60%"/>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=Fnoberz&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "Fnoberz" height = 150/> -->
+<div>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fnoberz&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
+</div>
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fnoberz&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
-
-
-<h2 align="center">
-
-![Fnoberz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fnoberz&show_icons=true&theme=transparent)
   
 
 
@@ -91,6 +90,5 @@
     </a>
 </p>
 
-</p>
-
-<h2 align="center"> Copyright © 2020 - 2022  
+  
+<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
