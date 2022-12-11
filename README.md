@@ -17,7 +17,6 @@
 
 
 
-
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
@@ -38,11 +37,10 @@
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB"></a>    
-  <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
-  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
+  <img alt="c++" src="https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=005494"></a> 
+  <img alt="Dart" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=f2c83f"></a>    
+  <img alt="Sql" src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=239120"></a> 
+  <img alt="Mongo" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=c792ea"></a> 
 </p>
 
 
@@ -90,5 +88,9 @@
     </a>
 </p>
 
+  <p align="center">
+  <i>&nbsp;"Too many of us are not living our dreams because we are living our fears...."</i> 
+ </div>
+ 
   
 <a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
