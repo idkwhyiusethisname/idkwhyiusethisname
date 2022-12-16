@@ -5,14 +5,14 @@
 
 <p align="center">
 
-![Fnoberz Official](https://user-images.githubusercontent.com/94861415/205455366-50e6996e-5ab3-4a69-8093-96bde9c803c4.png)
 
+![Banners](https://user-images.githubusercontent.com/94861415/208010308-4048b9b3-0d35-42c5-9edc-e059bff20800.png)
 
 
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Fnoberz.net-blue?style=for-the-badge)](https://fnoberz.net/)
+[![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
   
 
 
