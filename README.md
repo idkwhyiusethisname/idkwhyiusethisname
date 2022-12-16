@@ -19,9 +19,9 @@
 
 <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Fnoberz%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Fnoberz">
-   <img alt="Github" src="https://img.shields.io/github/followers/Fnoberz?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Slackes%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/Slackes">
+   <img alt="Github" src="https://img.shields.io/github/followers/Slackes?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Schweinepriester&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
@@ -45,11 +45,11 @@
 
 
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fnoberz&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Slackes&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
 </div>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Fnoberz&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Slackes&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Slackes&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
   
 
@@ -66,7 +66,7 @@
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord Server](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
 
 
 </pre><br>
@@ -75,16 +75,16 @@
 
 <h2 align="center"</h2>
 
-[![Telegram](https://img.shields.io/badge/-Fnoberz-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Fnoberz)
+[![Telegram](https://img.shields.io/badge/-Slackes-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Slackes)
 <a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
-<a target="_blank" href="https://twitter.com/FnoberzOfficial"><img alt="Twitter" src="https://img.shields.io/badge/@Fnoberz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a target="_blank" href="https://twitter.com/Slackes"><img alt="Twitter" src="https://img.shields.io/badge/@Slackes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Fnoberz server discord" alt="Fnoberz's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Fnoberz server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
     </a>
 </p>
 
