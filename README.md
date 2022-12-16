@@ -66,7 +66,7 @@
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Fnoberz#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Slackes#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
 
 
 </pre><br>
