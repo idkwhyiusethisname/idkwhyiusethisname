@@ -60,8 +60,6 @@
 
 - 📌 Information about all Products [Information](https://github.com/Club-CC/Detail)
 
-- 👋 Hello I'am Fnoberz Full Stack Developer
-
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
