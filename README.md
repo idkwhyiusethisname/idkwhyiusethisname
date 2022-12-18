@@ -6,7 +6,7 @@
 <p align="center">
 
 
-![Banners](https://user-images.githubusercontent.com/94861415/208010308-4048b9b3-0d35-42c5-9edc-e059bff20800.png)
+![Slackes](https://user-images.githubusercontent.com/94861415/208275918-bccfdeb0-31a4-44b7-99aa-499a3e51a2bb.png)
 
 
 
