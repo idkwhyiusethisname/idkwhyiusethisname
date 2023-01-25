@@ -62,7 +62,7 @@
 
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
-- 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
+- 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER OTHER JOIN DISCORD`
 
 - 💬 Discord [Slackes#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
 
@@ -87,7 +87,7 @@
 </p>
 
   <p align="center">
-  <i>&nbsp;"Too many of us are not living our dreams because we are living our fears...."</i> 
+  <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
  </div>
  
   
