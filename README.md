@@ -82,7 +82,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/users/1031767513077387284">
+    <a href="https://discord.gg/2euDQqzD8Y">
         <img title="Serups server discord" alt="Serups's discord" src="https://discord.c99.nl/widget/theme-4/1031767513077387284.png"/>
     </a>
 </p>
