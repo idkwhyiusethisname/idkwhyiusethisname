@@ -18,8 +18,8 @@
 
 
 <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Slackes%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+    <a href="https://discord.com/users/1031767513077387284">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Slackes%231000-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/Slackes">
    <img alt="Github" src="https://img.shields.io/github/followers/Slackes?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
@@ -64,7 +64,7 @@
 
 - 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Slackes#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Slackes#1000](https://discord.com/users/1031767513077387284) | [Discord](https://discord.com/users/1031767513077387284)
 
 
 </pre><br>
@@ -82,7 +82,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Fnoberz server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+        <img title="Slackes server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/1031767513077387284.png"/>
     </a>
 </p>
 
