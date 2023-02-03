@@ -74,14 +74,14 @@
 <h2 align="center"</h2>
 
 [![Telegram](https://img.shields.io/badge/-Slackes-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Slackes)
-<a target="_blank" href="https://discord.gg/MBTkVcJefp"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.com/users/1031767513077387284"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 [![YouTube Channel](https://img.shields.io/badge/-Slackes-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
 <a target="_blank" href="https://twitter.com/SlackCE"><img alt="Twitter" src="https://img.shields.io/badge/@Slackes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
+    <a href="https://discord.com/users/1031767513077387284">
         <img title="Slackes server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/1031767513077387284.png"/>
     </a>
 </p>
