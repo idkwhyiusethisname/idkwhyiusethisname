@@ -6,22 +6,23 @@
 <p align="center">
 
 
-![Slackes](https://user-images.githubusercontent.com/94861415/208275918-bccfdeb0-31a4-44b7-99aa-499a3e51a2bb.png)
+<img width="1188" alt="แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (1)" src="https://user-images.githubusercontent.com/94861415/216665598-7e160abe-5d08-4850-8c42-0930c583e0df.png">
+
 
 
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Slackes.me-blue?style=for-the-badge)](https://Slackes.me/)
+[![Website Badge](https://img.shields.io/badge/Website-Serups.me-blue?style=for-the-badge)](https://Serups.me/)
   
 
 
 
 <p align="center">
     <a href="https://discord.com/users/1031767513077387284">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Slackes%231000-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Slackes">
-   <img alt="Github" src="https://img.shields.io/github/followers/Slackes?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Serups%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+  <a href="https://github.com/Serups">
+   <img alt="Github" src="https://img.shields.io/github/followers/Serups?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Schweinepriester&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
@@ -45,11 +46,11 @@
 
 
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Slackes&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Serups&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATSSSS...&area=true">
 </div>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Slackes&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Slackes&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Serups&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Serups&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
   
 
@@ -64,7 +65,7 @@
 
 - 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Slackes#1000](https://discord.com/users/1031767513077387284) | [Discord](https://discord.com/users/1031767513077387284)
+- 💬 Discord [Serups#0001](https://discord.gg/2euDQqzD8Y) | [Discord](https://discord.gg/2euDQqzD8Y)
 
 
 </pre><br>
@@ -73,16 +74,16 @@
 
 <h2 align="center"</h2>
 
-[![Telegram](https://img.shields.io/badge/-Slackes-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Slackes)
+[![Telegram](https://img.shields.io/badge/-Serups-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Serups)
 <a target="_blank" href="https://discord.com/users/1031767513077387284"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-Slackes-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
-<a target="_blank" href="https://twitter.com/SlackCE"><img alt="Twitter" src="https://img.shields.io/badge/@Slackes-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+[![YouTube Channel](https://img.shields.io/badge/-Serups-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
+<a target="_blank" href="https://twitter.com/SlackCE"><img alt="Twitter" src="https://img.shields.io/badge/@Serups-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.com/users/1031767513077387284">
-        <img title="Slackes server discord" alt="Slackes's discord" src="https://discord.c99.nl/widget/theme-4/1031767513077387284.png"/>
+        <img title="Serups server discord" alt="Serups's discord" src="https://discord.c99.nl/widget/theme-4/1031767513077387284.png"/>
     </a>
 </p>
 
