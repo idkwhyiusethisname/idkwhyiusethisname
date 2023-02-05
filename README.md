@@ -6,7 +6,7 @@
 <p align="center">
 
 
-<img width="1188" alt="แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (1)" src="https://user-images.githubusercontent.com/94861415/216665598-7e160abe-5d08-4850-8c42-0930c583e0df.png">
+![แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (2)](https://user-images.githubusercontent.com/94861415/216830035-6dbddd86-f045-403a-a1ed-924e573fdb1c.png)
 
 
 
@@ -20,7 +20,7 @@
 
 <p align="center">
     <a href="https://discord.com/users/1031767513077387284">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-Serups%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-Serups%231500-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/Serups">
    <img alt="Github" src="https://img.shields.io/github/followers/Serups?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
@@ -65,7 +65,7 @@
 
 - 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Serups#0001](https://discord.gg/2euDQqzD8Y) | [Discord](https://discord.gg/2euDQqzD8Y)
+- 💬 Discord [Serups#1500](https://discord.gg/2euDQqzD8Y) | [Discord](https://discord.gg/2euDQqzD8Y)
 
 
 </pre><br>
