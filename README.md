@@ -6,8 +6,7 @@
 <p align="center">
 
 
-![แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (2)](https://user-images.githubusercontent.com/94861415/216830035-6dbddd86-f045-403a-a1ed-924e573fdb1c.png)
-
+![แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (3)](https://user-images.githubusercontent.com/94861415/217092689-2e966c2c-458b-4a8e-b67a-1b6cd706a80f.png)
 
 
 
