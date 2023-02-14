@@ -6,7 +6,7 @@
 <p align="center">
 
 
-<img width="1188" alt="แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (4)" src="https://user-images.githubusercontent.com/94861415/218282073-18749914-6c6c-47e2-9f26-8f60129e1fb2.png">
+<img width="1188" alt="Serups" src="https://user-images.githubusercontent.com/94861415/218282073-18749914-6c6c-47e2-9f26-8f60129e1fb2.png">
 
 
 
@@ -19,9 +19,9 @@
 
 
 <p align="center">
-    <a href="https://discord.com/users/1031767513077387284">
+    <a href="https://discord.gg/qh7aehEThG">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-Serups%230001-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/Serups">
+  <a href="https://discord.gg/qh7aehEThG">
    <img alt="Github" src="https://img.shields.io/github/followers/Serups?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
   
   
@@ -63,9 +63,9 @@
 
 - 🎓Advanced Master in Programming / Graduated at **Bangkok University**
 
-- 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER OTHER JOIN DISCORD`
+- 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER`
 
-- 💬 Discord [Serups#0001](https://discord.gg/2euDQqzD8Y) | [Discord](https://discord.gg/2euDQqzD8Y)
+- 💬 Discord [Serups#0001](https://discord.gg/qh7aehEThG) | [Discord](https://discord.gg/qh7aehEThG)
 
 
 </pre><br>
@@ -88,7 +88,7 @@
 </p>
 
   <p align="center">
-  <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
+  <i>&nbsp; "Too many of us are not living our dreams because we are living our fears"</i> 
  </div>
  
   
