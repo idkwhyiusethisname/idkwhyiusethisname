@@ -6,9 +6,7 @@
 <p align="center">
 
 
-<img width="1188" alt="Serups" src="https://user-images.githubusercontent.com/94861415/218282073-18749914-6c6c-47e2-9f26-8f60129e1fb2.png">
-
-
+<img width="1188" alt="Serups" src="https://user-images.githubusercontent.com/94861415/218982156-f65e70a9-317e-4b5d-8580-0dcc8a9aefd1.png">
 
 
 <p align="center">
