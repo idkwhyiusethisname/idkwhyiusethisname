@@ -6,7 +6,8 @@
 <p align="center">
 
 
-<img width="1188" alt="Serups" src="https://user-images.githubusercontent.com/94861415/218982156-f65e70a9-317e-4b5d-8580-0dcc8a9aefd1.png">
+![แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (6)](https://user-images.githubusercontent.com/94861415/220903112-b05c9d07-9bed-440a-ba30-dd8c2493d77a.png)
+
 
 
 <p align="center">
