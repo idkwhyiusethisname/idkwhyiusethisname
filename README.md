@@ -1,18 +1,13 @@
-
-
 <h2 align="center">
 
-
 <p align="center">
 
-
-![แบนเนอร์ Linkedin สถาปนิก สีน้ำเงินและสีขาว (6)](https://user-images.githubusercontent.com/94861415/220903112-b05c9d07-9bed-440a-ba30-dd8c2493d77a.png)
-
+![https://discord.gg/qh7aehEThG](https://user-images.githubusercontent.com/94861415/224580048-82ab9435-1a87-4231-91ed-854b08d83196.png)
 
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Serups.me-blue?style=for-the-badge)](https://Serups.me/)
+[![Website](https://img.shields.io/badge/Website-Serups.me-blue?style=for-the-badge)](https://Serups.me/)
   
 
 
@@ -58,13 +53,13 @@
 <h2 align="center">Contact me</h2>
 
 
-- 📌 Information about all Products [Information](https://github.com/Club-CC/Detail)
+- 👋 Information about all Products [Information](https://github.com/Club-CC/Detail)
 
-- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
+- 🎓 Computer Engineering with a PH.D. | Graduated at Bangkok University
 
-- 🛒 Product `PRIVATE CHEAT, SOURCE CODE, SPOOFER`
+- 🛒 Product `PRIVATE CHEAT, PRIVATE SPOOFER , DRIVER KERNEL`
 
-- 💬 Discord [Serups#0001](https://discord.gg/qh7aehEThG) | [Discord](https://discord.gg/qh7aehEThG)
+- 💬 Discord [Serups#0001](https://discord.gg/qh7aehEThG) | [Discord Server](https://discord.gg/qh7aehEThG)
 
 
 </pre><br>
@@ -75,7 +70,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Serups-%23282a36?style=for-the-badge&logo=Telegram)](https://t.me/Serups)
 <a target="_blank" href="https://discord.com/users/1031767513077387284"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-Serups-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
+[![YouTube Channel](https://img.shields.io/badge/-Serups_OFFICIAL-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
 <a target="_blank" href="https://twitter.com/SlackCE"><img alt="Twitter" src="https://img.shields.io/badge/@Serups-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
