@@ -45,7 +45,7 @@
 
 - 🛒 Product `DISCORD NITRO AND DISCORD TOOLSZ`
 
-- 💬 Discord [Serups#0001](https://discord.gg/qh7aehEThG) | [Discord Server](https://discord.gg/qh7aehEThG)
+- 💬 Discord [regenxx#9999](https://discord.gg/ZFeNqC2hP2) | [Discord Server](https://discord.gg/ZFeNqC2hP2)
 
 
 </pre>
