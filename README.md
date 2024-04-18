@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![https://bio.regenxybet888.top](https://ibb.co/93n7Ksp)
+![https://bio.regenxybet888.top](https://i.ibb.co/3Y1n6BT/aa31639e9f2ffdc35ab4f75ee4c920c5.jpg)
 
 
 <p align="center">
