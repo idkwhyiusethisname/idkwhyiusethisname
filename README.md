@@ -53,7 +53,7 @@
 <h2 align="center">Discord</h2><br>
   <p align="center">
     <a href="https://discord.gg/ZFeNqC2hP2">
-        <img title="REgenz" alt="REgev dc" src="https://discord.c99.nl/widget/theme-4/994236298866987028.png"/>
+        <img title="REgenz" alt="REgev dc" src="https://discord.c99.nl/widget/theme-1/1167808086610825238.png"/>
     </a>
 </p>
 
