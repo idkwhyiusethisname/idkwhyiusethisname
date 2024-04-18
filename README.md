@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![https://gateway.regenxy.gay](https://media.discordapp.net/attachments/995631943242764328/1085443763775737896/bc.png?width=960&height=240)
+![https://bio.regenxybet888.top](https://media.discordapp.net/attachments/1169610963780112424/1230470050754990120/aa31639e9f2ffdc35ab4f75ee4c920c5.jpg)
 
 
 <p align="center">
