@@ -41,7 +41,7 @@
 <h2 align="center">Contact us</h2>
 
 
-- 👋 https://bio.regenxy.gay
+- 👋 https://bio.regenxybet888.top
 
 - 🛒 Owned `Newdayx, Unknowx, Skylastore`
 
