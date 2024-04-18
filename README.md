@@ -43,7 +43,7 @@
 
 - 👋 https://bio.regenxy.gay
 
-- 🛒 Product `DISCORD NITRO AND DISCORD TOOLSZ`
+- 🛒 Owned `Newdayx, Unknowx, Skylastore`
 
 - 💬 Discord [jjj_jjjj_332](https://discord.gg/ZFeNqC2hP2)
 
