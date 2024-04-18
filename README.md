@@ -7,7 +7,7 @@
 
 <p align="center">
 
-[![Website](https://img.shields.io/badge/Website-bio.regenxy.gay-red)](https://bio.regenxy.gay)
+[![Website](https://img.shields.io/badge/Website-bio.regenxy.gay-red)](https://bio.regenxybet888.top)
   
 
 
