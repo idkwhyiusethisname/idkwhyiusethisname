@@ -1,7 +1,7 @@
-# Hi there! I'm [Your Name] 👋
+# Hello my name is Regenxy 👋
 
 ## 🚀 About Me
-Passionate developer with expertise in multiple technologies, building innovative solutions and exploring cutting-edge tech.
+16 Year old Developer from thailand!!
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,10 +23,10 @@ Passionate developer with expertise in multiple technologies, building innovativ
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=idkwhyiusethisname&show_icons=true&theme=radical)
 
 ## 🏆 Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=radical)](https://github.com/yourusername/your-best-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idkwhyiusethisname&repo=your-best-repo&theme=radical)](https://github.com/idkwhyiusethisname/your-best-repo)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
