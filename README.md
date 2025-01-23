@@ -1,30 +1,42 @@
+[![](https://raw.githubusercontent.com/idkwhyiusethisname/idkwhyiusethisname/master/profile.gif)](https://www.yourdomain.com/)
 
-# Hi there! I'm Regenxy 👋
+### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
-## a 16 Yearold Developer From Thailand!!
+### Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
+![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Hex Editing](https://img.shields.io/badge/Hex%20Editing-000000?style=for-the-badge&logo=hexedit&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![HTTP Debugging](https://img.shields.io/badge/HTTP%20Debugging-4285F4?style=for-the-badge&logo=debug&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-<div align="center">
-  ## 🎨 Design Tools
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-</div>
+### Design & Creative Tools
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=Adobe-Photoshop)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-000?&logo=Adobe-After-Effects)
 
-<div align="center">
-  *"People don't care about what you say, they care about what you build."*
-</div>
+### Development & Security
+![HTTP Debugging](https://img.shields.io/badge/-HTTP%20Debugging-000?&logo=HTTPie)
+![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-000?&logo=CodeSandbox)
+
+### Full Stack Projects
+[![](https://img.shields.io/badge/-🚀%20Project%201-000)](#)
+[![](https://img.shields.io/badge/-🌐%20Project%202-000)](#)
+[![](https://img.shields.io/badge/-🔧%20Project%203-000)](#)
+
+### GitHub Stats
+<a href="https://github.com/idkwhyiusethisname">
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=idkwhyiusethisname&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkwhyiusethisname&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
+### Connect With Me
+- 📧 Email: youremail@example.com
+- 🌐 Portfolio: https://www.yourdomain.com
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile
