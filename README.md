@@ -37,6 +37,4 @@
 </a>
 
 ### Connect With Me
-- 📧 Email: youremail@example.com
-- 🌐 Portfolio: https://www.yourdomain.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 telegram: https://t.me/aomza88
