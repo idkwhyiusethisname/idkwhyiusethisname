@@ -1,4 +1,7 @@
-[![](https://raw.githubusercontent.com/idkwhyiusethisname/idkwhyiusethisname/master/profile.gif)](https://www.yourdomain.com/)
+<div align="center">
+  #Hi There i am Regenxy!!!
+  16 Yearold Developer From Thailand!!!
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
