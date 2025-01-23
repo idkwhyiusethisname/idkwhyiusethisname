@@ -1,65 +1,36 @@
-<h2 align="center">
+# Hi there! I'm [Your Name] 👋
 
-<p align="center">
+## 🚀 About Me
+Passionate developer with expertise in multiple technologies, building innovative solutions and exploring cutting-edge tech.
 
-![https://bio.regenxybet888.top](https://i.ibb.co/txcLf0T/d67ad5e8d821f30ab7ca7cc41245eeb4.jpg)
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
-<p align="center">
+## 🌐 Cloud & Infrastructure
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-[![Website](https://img.shields.io/badge/Website-bio.regenxy.gay-red)](https://bio.regenxybet888.top)
-  
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+## 🏆 Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-best-repo&theme=radical)](https://github.com/yourusername/your-best-repo)
 
-<h3 align="center">Languages and Tools:</h3>
- <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-</a>
-  <a href="https://www.docker.com/" target="_blank"></a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-</p>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-
-
-<h2 align="center">Contact us</h2>
-
-
-- 👋 https://bio.regenxybet888.top
-
-- 🛒 Owned `Newdayx, Unknowx, Skylastore`
-
-- 💬 Discord [jjj_jjjj_332](https://discord.gg/ZFeNqC2hP2)
-
-
-</pre>
-
-<h2 align="center">Discord</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/ZFeNqC2hP2">
-        <img title="REgenz" alt="REgev dc" src="https://discord.c99.nl/widget/theme-1/1167808086610825238.png"/>
-    </a>
-</p>
-
-  <p align="center">
-  <i>&nbsp; "People don't care about what you say, they care about what you build."</i> 
- </div>
- 
-  
-<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
+---
+*"People don't care about what you say, they care about what you build."*
