@@ -1,6 +1,6 @@
 <div align="center">
   👋 Hi There i am Regenxy!!!
-  16 Yearold Developer From Thailand!!!
+  16 Year old Developer
 </div>
 
 ### Languages
@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
 ### Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -27,11 +26,6 @@
 ### Development & Security
 ![HTTP Debugging](https://img.shields.io/badge/-HTTP%20Debugging-000?&logo=HTTPie)
 ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-000?&logo=CodeSandbox)
-
-### Full Stack Projects
-[![](https://img.shields.io/badge/-🚀%20Project%201-000)](#)
-[![](https://img.shields.io/badge/-🌐%20Project%202-000)](#)
-[![](https://img.shields.io/badge/-🔧%20Project%203-000)](#)
 
 ### GitHub Stats
 <a href="https://github.com/idkwhyiusethisname">
