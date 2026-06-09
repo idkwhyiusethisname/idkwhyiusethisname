@@ -1,37 +1,5 @@
-<div align="center">
-  👋 Hi There i am Regenxy!!!
-  16 Year old Developer
-</div>
+ขอให้วันพรุ่งนี้ ไม่มีใครต้องร้องไห้
+สักวันเราอาจะเจอใครสักคนที่ดีพร้อม 
+ขอให้เราทำดีกว่านี้ หากได้เจอคนในฝัน ที่เฝ้ารอ 
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
-### Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![VMware](https://img.shields.io/badge/-VMware-000?&logo=VMware)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
-
-### Design & Creative Tools
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=Adobe-Photoshop)
-![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-000?&logo=Adobe-After-Effects)
-
-### Development & Security
-![HTTP Debugging](https://img.shields.io/badge/-HTTP%20Debugging-000?&logo=HTTPie)
-![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-000?&logo=CodeSandbox)
-
-### GitHub Stats
-<a href="https://github.com/idkwhyiusethisname">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=idkwhyiusethisname" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idkwhyiusethisname&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
-</a>
-
-### Connect With Me
-- 📧 telegram: https://t.me/aomza88
+ขอให้เราทั้งคู่โชคดี :)
